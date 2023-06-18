@@ -207,6 +207,13 @@ h1 {
   line-height: 1.5rem;
   white-space: pre-wrap;
 }
+.ar2 {
+  white-space: normal;
+  margin-top: 0;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+}
 
 
 
