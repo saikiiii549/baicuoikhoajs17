@@ -184,6 +184,30 @@ body{
     border: 1px solid #54a0ff;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  margin-top: 100 rem;
+  color: rgb(24, 48, 40);
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 31px;
+  width: 100%;
+}
+.ar1 {
+  margin-left: 0px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  white-space: pre-wrap;
+}
+
 
 
 
